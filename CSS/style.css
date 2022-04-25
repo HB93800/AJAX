@@ -1,0 +1,21 @@
+.containerI{
+background: blue;
+width: 70%;
+}
+.containerC{
+    background: red;
+    width: 70%;
+    font-size: 32px;
+    color: beige;
+}
+.containerAp2N{
+    background: green;
+    width: 70%;
+    font-size: 32px;
+    color: yellowgreen;
+    }
+.colorrecup{
+    background: rgb(126, 32, 126);
+    font-size: 32px;
+    color: white;
+}

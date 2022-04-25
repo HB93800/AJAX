@@ -1,0 +1,17 @@
+{
+    "variable":[
+        {
+            "clef1":"valeur1",
+            "clef10":"valeur10",
+            "clef100":"valeur100",
+            "clef1000":"valeur1000"
+        },
+        {
+            "clef2":"valeur2",
+            "clef20":"valeur20",
+            "clef200":"valeur200",
+            "clef2000":"valeur2000"
+        }
+
+    ]
+}
